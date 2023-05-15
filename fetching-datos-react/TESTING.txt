@@ -1,0 +1,5 @@
+npm init playwright@latest
+Javascript
+test
+false (Github options)
+true (install browsers)
